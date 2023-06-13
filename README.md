@@ -1,1 +1,2 @@
 # Sales-prediction-based-on-advertising-expenditure
+#The result of this analysis is a model that can predict sales with reasonable accuracy based on advertising spending. This model could #be of great use to companies looking to optimize their advertising spending to maximize sales. However, it is important to bear in #mind that this is a simplified model and that in practice, sales can be influenced by many other factors that have not been taken into #account in this analysis.
